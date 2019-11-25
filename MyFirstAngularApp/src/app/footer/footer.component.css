@@ -1,0 +1,11 @@
+.Footer_style{
+    background-color: brown;
+    height: 50px;
+    width: 100%;
+}
+
+.footer_content{
+    font-weight: lighter;
+    text-align: right;
+
+}

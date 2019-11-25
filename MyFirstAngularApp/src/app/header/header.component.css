@@ -1,0 +1,19 @@
+.header_style{
+    background-color: brown;
+    height: 100px;
+    width: 100%;
+}
+.header_content{
+    font-weight: bold;
+}
+
+li{
+    float: left;
+    padding-right: 20px;
+    padding-top: 20px;
+    list-style-type: none;
+}
+
+ul{
+    margin: 0px;
+}
