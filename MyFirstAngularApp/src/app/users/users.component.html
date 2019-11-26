@@ -1,0 +1,16 @@
+<p>
+  users works!
+</p>
+<div>
+<button (click)="getUsers($event)">Click Me</button>
+</div>
+<div *ngFor= "let i of userdata">
+  <ul>
+    <li>{{i.id}}</li>
+    <li>{{i.name}}</li>
+    <li>{{i.username}}</li>
+    <li>{{i.email}}</li>
+  </ul>
+
+</div>
+
